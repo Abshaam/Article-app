@@ -1,0 +1,23 @@
+.comments {
+    margin: 1em;
+}
+
+.comments-back{
+    display: flex;
+}
+
+.add-comment{
+    margin: 3rem;
+}
+
+.add-comment h2{
+    margin: 3rem;
+}
+
+/* .add-comment input{
+    width: 60%;
+    padding: 0.8rem;
+    margin: 0.6em;
+    border-radius: 5px;
+    border: none;
+} */

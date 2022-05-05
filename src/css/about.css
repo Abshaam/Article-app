@@ -1,0 +1,43 @@
+
+.about{
+    height: 100vh;
+    background-image: url(../images/about-back.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   
+    
+}
+
+.about h1{
+    color: white;
+    text-align: center;
+}
+
+.about-text{
+    margin: 2em;
+    text-align: center;
+    color: white;
+    justify-content: center;
+}
+
+
+.about-back h4{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: none;
+    /* color: white; */
+}
+
+.features{
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+   
+}
+
+.feature p{
+    color: white;
+    margin: 2rem;
+    text-align: center;
+}

@@ -1,0 +1,42 @@
+
+.home{
+    min-height: 100vh;
+}
+
+.home h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home-content{
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+.home h1{
+    text-align: center;
+    
+}
+
+.home-imgs{
+    display: flex;
+}
+
+.image{
+    margin-left: 1rem;
+}
+
+.image-text{
+    margin-left: 1rem;
+    margin-top: 3rem;
+    padding: 3px;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0px 0px 1px 1px rgb(153, 145, 145);
+    min-width: 3em;
+}
+
+.home h4{
+    text-align: center;
+    /* color: rgb(153, 145, 145); */
+}

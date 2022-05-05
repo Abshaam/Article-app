@@ -1,0 +1,44 @@
+
+.out{
+  display: flex;
+}
+.App{
+  background-color: rgb(153, 145, 145);
+}
+
+.logo{
+  background-color: white;
+  padding: 5px;
+  border-radius: 70%;
+  margin: 1rem;
+}
+
+.logo h2{
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.App nav{
+  padding-top: 60%;
+  padding-bottom: 100%;
+}
+
+
+nav{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5em;
+}
+
+nav a{
+  text-decoration: none;
+  color: white;
+  margin: 17%;
+  
+}
+
+.active{
+  color: aqua;
+}
+
